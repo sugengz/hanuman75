@@ -12,6 +12,6 @@ Design features:
 * Hot swappable socket
 * RGB underglow support
 
-Supported layout
+[Possible layout](https://github.com/sugengz/hanuman75/blob/main/PossibleLayout.md)
 
 Thanks to the QMK community, this project was heavily inspired by [Punk75](https://github.com/dsanchezseco/punk75), this keyboard has become my daily driver in pandemic era, but I need some Fs row occasionally... So I remake it with Fs row and options to put the encoder as well as adding RGB underglow. 
