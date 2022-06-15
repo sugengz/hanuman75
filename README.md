@@ -10,6 +10,8 @@ Hardware Availability: Soon
 Design features:
 * Using Atmega32a
 * Hot swappable socket
+* Using THT components (except the Kailh Hot swap socket)
+  * Options for 1N4148 diodes, could use either THT or SMD)
 * RGB underglow support
 
 [Possible layout](https://github.com/sugengz/hanuman75/blob/main/PossibleLayout.md)
